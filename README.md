@@ -20,4 +20,6 @@ For example, how much does this basket of books cost?
 
 (answer: 51.20 EUR)
 
-`npm run test` for result.
+Run steps:
+`npm install`
+`npm run test`
